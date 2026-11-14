@@ -16,7 +16,7 @@ import {
 export default function AboutSection() {
   const pillars = [
     {
-      title: "Established in 2025",
+      title: "Established in 2024",
       desc: "Founded with modern engineering methodology, agile execution frameworks, and uncompromising quality standards.",
       icon: <Building className="w-5 h-5 text-cyan-600" />,
     },
@@ -83,7 +83,7 @@ export default function AboutSection() {
 
             {/* Narrative Paragraphs */}
             <p className="mt-6 text-base sm:text-lg text-slate-600 leading-relaxed font-normal">
-              Established in 2025,{" "}
+              Established in 2024,{" "}
               <strong className="text-slate-900 font-semibold">Venus Projects</strong>{" "}
               delivers premier turnkey solutions, interior architecture, and robust
               infrastructure across South India. We combine engineering rigor with
@@ -188,7 +188,7 @@ export default function AboutSection() {
                     Established
                   </div>
                   <div className="text-sm font-extrabold text-white">
-                    Year 2025
+                    Year 2024
                   </div>
                 </div>
               </div>

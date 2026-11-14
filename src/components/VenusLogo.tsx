@@ -62,7 +62,7 @@ export default function VenusLogo({
                 isLight ? "text-slate-400" : "text-slate-500"
               }`}
             >
-              ESTD 2025
+              ESTD 2024
             </span>
           </div>
         )}

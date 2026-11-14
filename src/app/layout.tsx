@@ -9,7 +9,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "Venus Projects | Turnkey Projects, Interior Design & Infrastructure",
   description:
-    "Your trusted partner for turnkey projects, interior design, and infrastructure solutions across South India. Commercial, residential, and industrial expertise established in 2025.",
+    "Your trusted partner for turnkey projects, interior design, and infrastructure solutions across South India. Commercial, residential, and industrial expertise established in 2024.",
   keywords: [
     "Venus Projects",
     "Turnkey Projects South India",

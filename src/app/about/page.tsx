@@ -16,13 +16,13 @@ import {
 export const metadata = {
   title: "About Us | Venus Projects - Turnkey Infrastructure & Interiors",
   description:
-    "Learn about Venus Projects, established in 2025 as a premier turnkey infrastructure, civil construction, and interior design firm across South India.",
+    "Learn about Venus Projects, established in 2024 as a premier turnkey infrastructure, civil construction, and interior design firm across South India.",
 };
 
 export default function AboutPage() {
   const values = [
     {
-      title: "Established in 2025",
+      title: "Established in 2024",
       desc: "Founded with modern engineering methodology, agility, and a vision to redefine commercial and residential turnkey execution.",
       icon: <Calendar className="w-6 h-6 text-cyan-600" />,
     },
@@ -53,7 +53,7 @@ export default function AboutPage() {
           <div className="absolute inset-0 bg-gradient-to-r from-[#050e1a]/95 via-[#07152b]/85 to-[#0b1e38]/70" />
           <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center sm:text-left">
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-cyan-500/10 border border-cyan-400/30 text-cyan-300 text-xs font-bold uppercase tracking-wider mb-4">
-              <span>Established in 2025</span>
+              <span>Established in 2024</span>
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight">
               Transforming Spaces{" "}
@@ -77,7 +77,7 @@ export default function AboutPage() {
                   Pioneering Next-Generation Corporate Architecture & Execution
                 </h2>
                 <p className="text-slate-600 leading-relaxed">
-                  Established in 2025, Venus Projects was created to meet the
+                  Established in 2024, Venus Projects was created to meet the
                   growing demand for unified turnkey project solutions across
                   South India. By bridging the gap between visionary
                   architectural design, rigorous civil construction, and

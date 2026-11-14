@@ -181,13 +181,13 @@ export default function Footer() {
           {/* Middle: BIG Highlighted Autofy Link */}
           <div className="order-1 lg:order-2 flex items-center justify-center w-full lg:w-auto my-2 lg:my-0">
             <a 
-              href="https://autofy-ai-agency.vercel.app/" 
+              href="https://wa.me/9392472134?text=Hello%20Autofy.ai%20I%20would%20like%20to%20discuss%20about%20project" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group relative inline-flex items-center gap-2 px-6 py-2.5 bg-slate-800/80 border border-cyan-500/30 rounded-full hover:bg-slate-700 hover:border-cyan-400 transition-all duration-300 hover:scale-105 shadow-[0_0_20px_rgba(0,180,216,0.15)] hover:shadow-[0_0_30px_rgba(0,180,216,0.4)]"
             >
               <span className="text-sm text-slate-200 font-medium group-hover:text-white transition-colors">
-                Prepared by
+                Designed and developed by
               </span>
               <span className="text-base sm:text-lg font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-400 tracking-wide uppercase drop-shadow-sm">
                 Autofy.ai
